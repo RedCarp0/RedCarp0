@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedCarp0
-- 👀 I’m interested in Robotics, Computer Vision, Embodied AI and Deep Learning.
+- 👀 I’m interested in Robotics, Computer Vision, Embodied AI and Deep Reinforcement Learning.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: RedCarp_@outlook.com
