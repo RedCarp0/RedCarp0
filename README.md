@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Reinforcement Learning and its application in Robotics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: RedCarp_@outlook.com
+- 📫 How to reach me: zijunlin.work@gmail.com
 
 <!---
 RedCarp0/RedCarp0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
